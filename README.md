@@ -4,7 +4,7 @@ A data crawler from NAVER written in PHP, mainly targeted on NAVER blog, then ki
 ## Usage
 
 ### Update constants in naver_blog_crawler.php as your preference
-```
+```php
 /** constants: Line 16-21 */
 $FROM_PAGE      = 1;
 $TIME_FOR_NAPS  = 4;
