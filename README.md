@@ -1,5 +1,5 @@
 # NAVER CRAWLER
-A data crawler from NAVER written in PHP, mainly targeted on NAVER blog, then kin (knowledge IN), and so on.
+A data crawler from [NAVER](https://www.naver.com) written in PHP, mainly targeted on [NAVER Blogs](https://section.blog.naver.com/), then [NAVER KIN (knowledge IN)](http://kin.naver.com), and so on.
 
 ## Usage
 
