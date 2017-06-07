@@ -3,7 +3,7 @@ A data crawler from NAVER written in PHP, mainly targeted on NAVER blog, then ki
 
 ## Usage
 
-### Update constants in naver_blog_crawler.php as your preference
+### Update constants in naver_blog_crawler.php as your preference, first
 ```php
 /** constants: Line 16-21 */
 $FROM_PAGE      = 1;
@@ -13,7 +13,7 @@ $NAVER_BLOG_ID  = "nong-up";
 $DIR_DATA       = $DIR_HOME."/data/"; // change this to the right place, and make it writable
 ```
 
-### Running the script on command-line shell
+### Run the script on command-line shell
 ```
 $ /usr/bin/php naver_blog_crawler.php
 ```
